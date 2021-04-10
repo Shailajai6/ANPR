@@ -1,5 +1,5 @@
 matplotlib
-opencv-python
+opencv_python
 pytesseract
 imageai
 easyocr
