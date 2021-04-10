@@ -16,3 +16,4 @@ Pillow
 scikit_learn
 h5py
 tensorflow-cpu
+cv2
