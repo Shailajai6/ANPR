@@ -14,3 +14,5 @@ ipython
 matplotlib
 Pillow
 scikit_learn
+h5py
+tensorflow-cpu
