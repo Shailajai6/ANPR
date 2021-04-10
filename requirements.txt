@@ -1,4 +1,4 @@
-~atplotlib==3.1.1
+matplotlib==3.1.1
 opencv_python==4.5.1.48
 pytesseract==0.3.7
 imageai==2.1.6
