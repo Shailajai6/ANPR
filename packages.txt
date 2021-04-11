@@ -1,2 +1,4 @@
 freeglut3-dev
 libgtk2.0-dev
+libhdf5-100
+libhdf5-dev
