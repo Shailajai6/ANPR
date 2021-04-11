@@ -16,6 +16,7 @@ Pillow
 scikit_learn
 tensorflow-cpu
 h5py<3.0.0
+scipy
 
 
 
