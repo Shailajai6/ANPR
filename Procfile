@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run lpdetect.py
+web: sh setup.sh && streamlit run resnet_20epochs.py
